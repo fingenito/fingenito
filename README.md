@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Flavio Ingenito, Music Engineering student at Politecnico di Milano.
+- 👋 Hi, I’m Flavio Ingenito, graduated in Music Engineering at Politecnico di Milano.
 - 👀 I’m interested in every possible way to make music (and a PhD)!
 - 🌱 I’m currently learning ways to study, understand and explain multimodal LLMs for audio.
 - 📫 How to reach me: flavio.ingenito@mail.polimi.it
